@@ -5,7 +5,7 @@ function Test1() {
       <header className="Test1-header">
         <img src={logo} className="Test1-logo" alt="logo" />
         <p>
-          Edit <code>src/Test1.js</code> and save to reload all.
+          Edit <code>src/Test1.js</code> and save to reload.
         </p>
         <a
           className="Test1-link"
